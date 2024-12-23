@@ -28,7 +28,7 @@ Last Updated on 12/23/2024, 2:51:53 AM</p>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=nodejs,react,next,remix,laravel,dotnet,django,vite,tailwind," />
 
 ### DevOps
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,figma,docker,git,github,gitlab,ai,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,figma,docker,git,github,gitlab,vscode" />
 
 
 <!--
