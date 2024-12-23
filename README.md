@@ -30,7 +30,6 @@ Last Updated on 12/23/2024, 2:51:53 AM</p>
 ### DevOps
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,figma,docker,git,github,gitlab,ai,vscode" />
 
-## Activities
 
 <!--
 **n-yokomachi/n-yokomachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
