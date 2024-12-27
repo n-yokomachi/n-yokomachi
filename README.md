@@ -10,46 +10,47 @@
   </a>
 </p>
 
-## 👋 Hi there
-My name is yokomachi Naoki.  
-I'm a software engineer.
-
-
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="400" ></a></p>
-<!--END_SECTION:lapras-card-->
-
-<a href="https://github.com/n-yokomachi">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-yokomachi&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/n-yokomachi">
-  <img height=200 src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true&theme=onedark" />
-</a>
-
-
-
-
 ## 💬 I'm on
-<div align="left">
+<div align="center">
 <a href="https://github.com/n-yokomachi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://lapras.com/public/yokomachi" target="_blank"><img alt="lapras" src="https://img.shields.io/badge/lapras-1386ed.svg?&style=for-the-badge&logo=lapras&logoColor=black" /></a>
 <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkdin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://qiita.com/yokomachi" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 </div> 
-<div align="left">
+<div align="center">
 <a href="https://speakerdeck.com/yokomachi" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-006159.svg?&style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
 <a href="https://www.duolingo.com/profile/yokomachi1" target="_blank"><img alt="duolingo" src="https://img.shields.io/badge/duolingo-58cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white" /></a>
 <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a>
 <a href="https://www.figma.com/@yokomachi" target="_blank"><img alt="figma" src="https://img.shields.io/badge/figma-ff7262.svg?&style=for-the-badge&logo=figma&logoColor=black" /></a>
 </div>  
 
+## 👋 Hi there
+My name is yokomachi Naoki.  
+I'm a software engineer.
+
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
+<p align="left"> 
+  <!--lapras-card-->
+  <img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" height="250px" >
+  <!--trophy-->
+  <img alt="Trophy" height="250px" src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true&column=2" />
+  <!--profile summary card-->
+  <img alt="details" width="700px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/0-profile-details.svg" />
+  <img alt="repos-per-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
+  <img alt="most-commit-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
+</p>
+
+
 
 ## 🌱 Skill
-### Language
+### Programming Languages
 <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,python,cs,php,graphql" />
 
-### Framework
+### Frameworks
 <img alt="framework" src="https://skillicons.dev/icons?theme=dark&perline=10&i=nodejs,react,next,remix,laravel,dotnet,django,vite,tailwind," />
 
 ### DevOps
