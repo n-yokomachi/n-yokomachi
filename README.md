@@ -29,13 +29,13 @@ Last Updated on 12/23/2024, 2:51:53 AM</p>
 
 ## 🌱 Skill
 ### Language
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,python,cs,php" />
+<img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,python,cs,php,graphql" />
 
 ### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=nodejs,react,next,remix,laravel,dotnet,django,vite,tailwind," />
+<img alt="framework" src="https://skillicons.dev/icons?theme=dark&perline=10&i=nodejs,react,next,remix,laravel,dotnet,django,vite,tailwind," />
 
 ### DevOps
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,figma,docker,git,github,gitlab,vscode" />
+<img alt="devops" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,linux,windows,apple,postman,sentry,figma,docker,mysql,dynamodb,git,github,githubactions,gitlab,vscode" />
 
 
 <!--
