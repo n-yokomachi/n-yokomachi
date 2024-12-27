@@ -19,3 +19,5 @@ jobs:
           BACKGROUND_SECOND: "#d6cabc"
           LANG: "en"
           UPDATE_TIME: "false"
+          CARD_WIDTH: "300"
+          IS_CENTER: "true"
