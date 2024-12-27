@@ -7,8 +7,8 @@ My name is yokomachi Naoki.
 I'm a software engineer.
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.46 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.09 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=3.43&i=3.09&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 12/23/2024, 2:51:53 AM</p>
+<p ><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="400" ></a>  
+Last Updated on 12/27/2024, 2:02:45 PM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 💬 I'm on
