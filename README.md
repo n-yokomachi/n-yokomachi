@@ -10,6 +10,10 @@
   </a>
 </p>
 
+## 👋 Hi there
+My name is yokomachi Naoki.  
+I'm a software engineer.
+
 ## 💬 I'm on
 
 <!--START_SECTION:lapras-card-->
@@ -31,9 +35,7 @@
 </div>  
 
 
-## 👋 Hi there
-My name is yokomachi Naoki.  
-I'm a software engineer.
+## 🐈 Activities
 
 <p align="left"> 
   <!--trophy-->
