@@ -18,3 +18,4 @@ jobs:
           BACKGROUND_FIRST: "#91855a"
           BACKGROUND_SECOND: "#d6cabc"
           LANG: "en"
+          UPDATE_TIME: "false"
