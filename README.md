@@ -25,19 +25,17 @@
 <a href="https://www.figma.com/@yokomachi" target="_blank"><img alt="figma" src="https://img.shields.io/badge/figma-ff7262.svg?&style=for-the-badge&logo=figma&logoColor=black" /></a>
 </div>  
 
+<!--START_SECTION:lapras-card-->
+  <img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="300px" >
+<!--END_SECTION:lapras-card-->
+
 ## 👋 Hi there
 My name is yokomachi Naoki.  
 I'm a software engineer.
 
-
-<!--START_SECTION:lapras-card-->
-<!--END_SECTION:lapras-card-->
-
 <p align="left"> 
-  <!--lapras-card-->
-  <img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" height="250px" >
   <!--trophy-->
-  <img alt="Trophy" height="250px" src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true&column=2" />
+  <img alt="Trophy"src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true" />
   <!--profile summary card-->
   <img alt="details" width="700px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/0-profile-details.svg" />
   <img alt="repos-per-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
