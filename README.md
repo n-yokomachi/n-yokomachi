@@ -1,14 +1,33 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=n-yokomachi" />
-</div>
+<p align="right">
+  <a href="https://github.com/n-yokomachi">
+    <img src="https://komarev.com/ghpvc/?username=n-yokomachi" />
+  </a>
+  <a href="http://qiita.com/yokomachi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/posts.svg" />
+  </a>
+  <a href="http://qiita.com/yokomachi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/contributions.svg" />
+  </a>
+</p>
 
 ## 👋 Hi there
 My name is yokomachi Naoki.  
 I'm a software engineer.
 
+
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
+
+<a href="https://github.com/n-yokomachi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-yokomachi&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/n-yokomachi">
+  <img height=200 src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true&theme=onedark" />
+</a>
+
+
+
 
 ## 💬 I'm on
 <div align="left">
