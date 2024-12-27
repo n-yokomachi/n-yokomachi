@@ -13,8 +13,8 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@v1.3.0
         with:
           SHARE_ID: "yokomachi"
-          ICON_FIRST: "#888888"
-          ICON_SECOND: "#cccccc"
-          BACKGROUND_FIRST: "#767676"
-          BACKGROUND_SECOND: "#e1e1e1"
+          ICON_FIRST: "#267360"
+          ICON_SECOND: "#1d3937"
+          BACKGROUND_FIRST: "#91855a"
+          BACKGROUND_SECOND: "#d6cabc"
           LANG: "en"
