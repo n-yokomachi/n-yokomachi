@@ -26,6 +26,7 @@ I'm a software engineer.
 <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://qiita.com/yokomachi" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
+<a href="https://www.16personalities.com/ja/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/ffd619bb32c18" target="_blank"><img alt="16personalities" src="https://img.shields.io/badge/16personalities-88619a.svg?&style=for-the-badge&logo=16personalities&logoColor=white" /></a>
 </div> 
 <div align="center">
 <a href="https://speakerdeck.com/yokomachi" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-006159.svg?&style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
