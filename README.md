@@ -24,14 +24,16 @@ I'm a software engineer.
 <a href="https://github.com/n-yokomachi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://lapras.com/public/yokomachi" target="_blank"><img alt="lapras" src="https://img.shields.io/badge/lapras-1386ed.svg?&style=for-the-badge&logo=lapras&logoColor=black" /></a>
 <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkdin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://qiita.com/yokomachi" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 </div> 
 <div align="center">
 <a href="https://speakerdeck.com/yokomachi" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-006159.svg?&style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
+<a href="https://www.figma.com/@yokomachi" target="_blank"><img alt="figma" src="https://img.shields.io/badge/figma-ff7262.svg?&style=for-the-badge&logo=figma&logoColor=black" /></a>
 <a href="https://www.duolingo.com/profile/yokomachi1" target="_blank"><img alt="duolingo" src="https://img.shields.io/badge/duolingo-58cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white" /></a>
 <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a>
-<a href="https://www.figma.com/@yokomachi" target="_blank"><img alt="figma" src="https://img.shields.io/badge/figma-ff7262.svg?&style=for-the-badge&logo=figma&logoColor=black" /></a>
+<a href="https://booklog.jp/users/yokomachi1" target="_blank"><img alt="booklog" src="https://img.shields.io/badge/ブクログ-4ea6cc.svg?&style=for-the-badge&logo=booklog&logoColor=white" /></a>
+<a href="https://atcoder.jp/users/yokomachi" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-000000.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
 </div>  
 
 
