@@ -12,7 +12,9 @@
 
 ## 👋 Hi there
 My name is yokomachi Naoki.  
-I'm a software engineer.
+I'm a software engineer.  
+For more details about my work and projects, visit my portfolio on Notion.  
+<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a>
 
 ## 💬 I'm on
 
@@ -21,6 +23,7 @@ I'm a software engineer.
 <!--END_SECTION:lapras-card-->
 
 <div align="center">
+<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a>
 <a href="https://github.com/n-yokomachi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://lapras.com/public/yokomachi" target="_blank"><img alt="lapras" src="https://img.shields.io/badge/lapras-1386ed.svg?&style=for-the-badge&logo=lapras&logoColor=black" /></a>
 <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
