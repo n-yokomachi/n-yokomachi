@@ -13,17 +13,29 @@
 ## 👋 Hi there
 My name is yokomachi Naoki.  
 I'm a software engineer.  
-For more details about my work and projects, visit my portfolio on Notion.  
-<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a>
 
-## 💬 I'm on
+## 💬 About me
 
 <!--START_SECTION:lapras-card-->
 <p align="center"><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="300" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 <div align="center">
-<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a>
+  <p>
+    <h3>Portfolio</h3>
+  </p>
+  <a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank">
+    <img alt="Notion" src="https://img.shields.io/badge/notion(Portfolio)-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" />
+  </a>
+</div>
+
+<div align="center">
+  <p>
+    <h3>SNS</h3>
+  </p>
+</div>
+
+<div align="center">
 <a href="https://github.com/n-yokomachi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://lapras.com/public/yokomachi" target="_blank"><img alt="lapras" src="https://img.shields.io/badge/lapras-1386ed.svg?&style=for-the-badge&logo=lapras&logoColor=black" /></a>
 <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
@@ -42,6 +54,7 @@ For more details about my work and projects, visit my portfolio on Notion.
 </div>  
 
 
+
 ## 🐈 Activities
 
 <p align="left"> 
@@ -52,7 +65,6 @@ For more details about my work and projects, visit my portfolio on Notion.
   <img alt="repos-per-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
   <img alt="most-commit-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
 </p>
-
 
 
 ## 🌱 Skill
