@@ -1,13 +1,7 @@
 <p align="right">
-  <a href="https://github.com/n-yokomachi">
-    <img src="https://komarev.com/ghpvc/?username=n-yokomachi" />
-  </a>
-  <a href="http://qiita.com/yokomachi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/posts.svg" />
-  </a>
-  <a href="http://qiita.com/yokomachi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/contributions.svg" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=n-yokomachi" />
+  <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/posts.svg" />
+  <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/contributions.svg" />
 </p>
 
 ## 👋 Hi there
