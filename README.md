@@ -11,7 +11,7 @@ I'm a software engineer.
 ## 💬 About me
 
 <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="300" ></a></p>
+<p align="center"><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.51 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.23 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=3.43&i=3.23&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="300" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 <div align="center">
