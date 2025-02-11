@@ -9,17 +9,18 @@
 My name is yokomachi Naoki.  
 I'm a software engineer.
 
+<div align="center">
+  <a href="https://yokomachi.vercel.app/" target="_blank">
+  <img width="500" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/image/logo.png" alt="logo">
+  </a>
+</div>
+
 ## 💬 About me
 
 <!--START_SECTION:lapras-card-->
 <p align="center"><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.52 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.24 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.52&b=3.43&i=3.24&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="300" ></a></p>
 <!--END_SECTION:lapras-card-->
 
-<div align="center">
-  <a href="https://yokomachi.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/image/logo.png" alt="logo">
-  </a>
-</div>
 
 <div align="center">
   <p>
