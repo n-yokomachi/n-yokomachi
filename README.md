@@ -18,8 +18,11 @@ I'm a software engineer.
   <p>
     <h3>Portfolio</h3>
   </p>
+  <a href="https://yokomachi.vercel.app/" target="_blank">
+    <img height="30" alt="Notion" src="https://img.shields.io/badge/Webサイト版-000000.svg?style=flat&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" />
+  </a>
   <a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank">
-    <img height="30" alt="Notion" src="https://img.shields.io/badge/yokomachiのポートフォリオ-000000.svg?style=flat&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" />
+    <img height="30" alt="Notion" src="https://img.shields.io/badge/Notionページ版-000000.svg?style=flat&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" />
   </a>
 </div>
 
