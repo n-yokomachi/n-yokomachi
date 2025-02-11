@@ -11,8 +11,9 @@
 </p>
 
 ## 👋 Hi there
+
 My name is yokomachi Naoki.  
-I'm a software engineer.  
+I'm a software engineer.
 
 ## 💬 About me
 
@@ -21,11 +22,8 @@ I'm a software engineer.
 <!--END_SECTION:lapras-card-->
 
 <div align="center">
-  <p>
-    <h3>Portfolio</h3>
-  </p>
-  <a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank">
-    <img alt="Notion" src="https://img.shields.io/badge/notion(Portfolio)-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" />
+  <a href="https://yokomachi.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/image/logo.png" alt="logo">
   </a>
 </div>
 
@@ -38,6 +36,9 @@ I'm a software engineer.
 <div align="center">
 <a href="https://github.com/n-yokomachi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://lapras.com/public/yokomachi" target="_blank"><img alt="lapras" src="https://img.shields.io/badge/lapras-1386ed.svg?&style=for-the-badge&logo=lapras&logoColor=black" /></a>
+<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank">
+<img alt="Notion" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" />
+</a>
 <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://qiita.com/yokomachi" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
@@ -51,9 +52,7 @@ I'm a software engineer.
 <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a>
 <a href="https://booklog.jp/users/yokomachi1" target="_blank"><img alt="booklog" src="https://img.shields.io/badge/ブクログ-4ea6cc.svg?&style=for-the-badge&logo=booklog&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/yokomachi" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-FFFFFF.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
-</div>  
-
-
+</div>
 
 ## 🐈 Activities
 
@@ -66,17 +65,19 @@ I'm a software engineer.
   <img alt="most-commit-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
 </p>
 
-
 ## 🌱 Skill
+
 ### Programming Languages
+
 <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,python,cs,php,graphql" />
 
 ### Frameworks
+
 <img alt="framework" src="https://skillicons.dev/icons?theme=dark&perline=10&i=nodejs,react,next,remix,laravel,dotnet,django,vite,tailwind," />
 
 ### DevOps
-<img alt="devops" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,linux,windows,apple,postman,sentry,figma,docker,mysql,dynamodb,git,github,githubactions,gitlab,vscode" />
 
+<img alt="devops" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,linux,windows,apple,postman,sentry,figma,docker,mysql,dynamodb,git,github,githubactions,gitlab,vscode" />
 
 <!--
 **n-yokomachi/n-yokomachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
