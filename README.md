@@ -1,13 +1,7 @@
 <p align="right">
-  <a href="https://github.com/n-yokomachi">
-    <img src="https://komarev.com/ghpvc/?username=n-yokomachi" />
-  </a>
-  <a href="http://qiita.com/yokomachi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/posts.svg" />
-  </a>
-  <a href="http://qiita.com/yokomachi">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/contributions.svg" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=n-yokomachi" />
+  <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/posts.svg" />
+  <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/contributions.svg" />
 </p>
 
 ## 👋 Hi there
@@ -18,7 +12,7 @@ I'm a software engineer.
 ## 💬 About me
 
 <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.47 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.22 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.43&i=3.22&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="300" ></a></p>
+<p align="center"><a href="https://lapras.com/public/yokomachi" target="_blank" rel="noopener noreferrer"><img alt="yokomachi's scores on LAPRAS are as follows: Engineering: 3.52 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.24 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.52&b=3.43&i=3.24&b1=%2391855a&b2=%23d6cabc&i1=%23267360&i2=%231d3937&l=en" width="300" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 <div align="center">
@@ -39,7 +33,7 @@ I'm a software engineer.
 <a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank">
 <img alt="Notion" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" />
 </a>
-<a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+<!-- <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> -->
 <a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://qiita.com/yokomachi" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 <a href="https://speakerdeck.com/yokomachi" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-006159.svg?&style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
@@ -49,7 +43,7 @@ I'm a software engineer.
 <a href="https://www.figma.com/@yokomachi" target="_blank"><img alt="figma" src="https://img.shields.io/badge/figma-ff7262.svg?&style=for-the-badge&logo=figma&logoColor=black" /></a>
 <a href="https://www.16personalities.com/ja/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/ffd619bb32c18" target="_blank"><img alt="16personalities" src="https://img.shields.io/badge/16personalities-88619a.svg?&style=for-the-badge&logo=16personalities&logoColor=white" /></a>
 <a href="https://www.duolingo.com/profile/yokomachi1" target="_blank"><img alt="duolingo" src="https://img.shields.io/badge/duolingo-58cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white" /></a>
-<a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a>
+<!-- <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a> -->
 <a href="https://booklog.jp/users/yokomachi1" target="_blank"><img alt="booklog" src="https://img.shields.io/badge/ブクログ-4ea6cc.svg?&style=for-the-badge&logo=booklog&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/yokomachi" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-FFFFFF.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
 </div>
@@ -58,7 +52,7 @@ I'm a software engineer.
 
 <p align="left"> 
   <!--trophy-->
-  <img alt="Trophy"src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true" />
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true" />
   <!--profile summary card-->
   <img alt="details" width="700px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/0-profile-details.svg" />
   <img alt="repos-per-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
