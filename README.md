@@ -7,7 +7,7 @@
 ## 👋 Hi there
 
 My name is yokomachi Naoki.  
-I'm a software engineer.
+I'm a programmer.
 
 <div align="center">
   <a href="https://yokomachi.vercel.app/" target="_blank">
