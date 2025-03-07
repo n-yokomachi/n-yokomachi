@@ -30,15 +30,16 @@ I'm a programmer.
 
 <div align="center">
 <a href="https://github.com/n-yokomachi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://huggingface.co/yokomachi" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-yellow.svg?&style=for-the-badge&logo=HuggingFace&logoColor=white" /></a>
-<a href="https://lapras.com/public/yokomachi" target="_blank"><img alt="lapras" src="https://img.shields.io/badge/lapras-1386ed.svg?&style=for-the-badge&logo=lapras&logoColor=black" /></a>
-<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" /></a>
-<!-- <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> -->
-<a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://zenn.dev/yokomachi" target="_blank"><img alt="zenn" src="https://img.shields.io/badge/zenn-FFFFFF.svg?&style=for-the-badge&logo=zenn" /></a>
 <a href="https://qiita.com/yokomachi" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 <a href="https://speakerdeck.com/yokomachi" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-006159.svg?&style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinedIn-0a66c2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+
 </div> 
 <div align="center">
+<a href="https://lapras.com/public/yokomachi" target="_blank"><img alt="lapras" src="https://img.shields.io/badge/lapras-1386ed.svg?&style=for-the-badge&logo=lapras&logoColor=black" /></a>
 <a href="https://connpass.com/user/duplicate1984/" target="_blank"><img alt="connpass" src="https://img.shields.io/badge/connpass-d52e02.svg?&style=for-the-badge&logo=connpass&logoColor=white" /></a>
 <a href="https://www.figma.com/@yokomachi" target="_blank"><img alt="figma" src="https://img.shields.io/badge/figma-ff7262.svg?&style=for-the-badge&logo=figma&logoColor=black" /></a>
 <a href="https://www.16personalities.com/ja/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/ffd619bb32c18" target="_blank"><img alt="16personalities" src="https://img.shields.io/badge/16personalities-88619a.svg?&style=for-the-badge&logo=16personalities&logoColor=white" /></a>
@@ -46,6 +47,7 @@ I'm a programmer.
 <!-- <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a> -->
 <a href="https://booklog.jp/users/yokomachi1" target="_blank"><img alt="booklog" src="https://img.shields.io/badge/ブクログ-4ea6cc.svg?&style=for-the-badge&logo=booklog&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/yokomachi" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-FFFFFF.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
+<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" /></a>
 </div>
 
 ## 🐈 Activities
