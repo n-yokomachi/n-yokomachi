@@ -1,7 +1,5 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=n-yokomachi" />
-  <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/posts.svg" />
-  <img height="20" src="https://qiita-badge.apiapi.app/s/yokomachi/contributions.svg" />
 </p>
 
 ## 👋 Hi there
