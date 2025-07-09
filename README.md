@@ -7,15 +7,12 @@
 My name is yokomachi Naoki.  
 I'm a programmer.
 
-<div align="center">
-  <a href="https://yokomachi.vercel.app/" target="_blank">
-  <img width="500" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/image/logo.png" alt="logo">
-  </a>
-</div>
+<a href="https://yokomachi.vercel.app/" target="_blank">
+<img width="500" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/image/logo.png" alt="logo">
+</a>
 
 ## 💬 About me
 
-<div align="center">
 <a href="https://github.com/n-yokomachi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/_cityside" target="_blank"><img alt="X(Twitter)" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://huggingface.co/yokomachi" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-yellow.svg?&style=for-the-badge&logo=HuggingFace&logoColor=white" /></a>
@@ -28,11 +25,11 @@ I'm a programmer.
 <a href="https://www.figma.com/@yokomachi" target="_blank"><img alt="figma" src="https://img.shields.io/badge/figma-ff7262.svg?&style=for-the-badge&logo=figma&logoColor=black" /></a>
 <a href="https://www.16personalities.com/ja/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/ffd619bb32c18" target="_blank"><img alt="16personalities" src="https://img.shields.io/badge/16personalities-88619a.svg?&style=for-the-badge&logo=16personalities&logoColor=white" /></a>
 <a href="https://www.duolingo.com/profile/yokomachi1" target="_blank"><img alt="duolingo" src="https://img.shields.io/badge/duolingo-58cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white" /></a>
-<!-- <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a> -->
 <a href="https://booklog.jp/users/yokomachi1" target="_blank"><img alt="booklog" src="https://img.shields.io/badge/ブクログ-4ea6cc.svg?&style=for-the-badge&logo=booklog&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/yokomachi" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-FFFFFF.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
 <a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" /></a>
-</div>
+<!-- <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a> -->
+
 
 ## 🐈 Activities
 
