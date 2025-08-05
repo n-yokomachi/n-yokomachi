@@ -7,9 +7,10 @@
 My name is yokomachi Naoki.  
 I'm a programmer.
 
-<a href="https://yokomachi.vercel.app/" target="_blank">
+<!-- <a href="https://yokomachi.vercel.app/" target="_blank">
 <img width="500" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/image/logo.png" alt="logo">
 </a>
+-->
 
 ## 💬 About me
 
@@ -27,7 +28,7 @@ I'm a programmer.
 <a href="https://www.duolingo.com/profile/yokomachi1" target="_blank"><img alt="duolingo" src="https://img.shields.io/badge/duolingo-58cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white" /></a>
 <a href="https://booklog.jp/users/yokomachi1" target="_blank"><img alt="booklog" src="https://img.shields.io/badge/ブクログ-4ea6cc.svg?&style=for-the-badge&logo=booklog&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/yokomachi" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-FFFFFF.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
-<a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" /></a>
+<!-- <a href="https://river-eclipse-6a3.notion.site/yokomachi-16b28dc8db598030b820c22073444bcd" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=000000&logoSize=auto&color=FFFFFF" /></a> -->
 <!-- <a href="https://note.com/_cityside" target="_blank"><img alt="note" src="https://img.shields.io/badge/note-FFFFFF.svg?&style=for-the-badge&logo=note&logoColor=black" /></a> -->
 
 
