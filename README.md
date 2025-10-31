@@ -45,6 +45,7 @@ I'm a programmer.
   <img alt="most-commit-language" width="348px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
 </p>
 
+<!--
 ## 🌱 Skill
 
 ### Programming Languages
@@ -58,6 +59,7 @@ I'm a programmer.
 ### DevOps
 
 <img alt="devops" src="https://skillicons.dev/icons?theme=dark&perline=10&i=aws,linux,windows,apple,postman,sentry,figma,docker,mysql,dynamodb,git,github,githubactions,gitlab,vscode" />
+-->
 
 <!--
 **n-yokomachi/n-yokomachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
