@@ -39,7 +39,7 @@ I'm a programmer.
 
 <p align="left"> 
   <!--trophy-->
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true" />
+  <!-- <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=n-yokomachi&rank=?,-?&no-frame=true" /> -->
   <div />
   <!--profile summary card-->
   <img alt="details" width="700px" src="https://raw.githubusercontent.com/n-yokomachi/n-yokomachi/main/profile-summary-card-output/nord_bright/0-profile-details.svg" />
