@@ -19,6 +19,7 @@ I'm a programmer.
 <a href="https://huggingface.co/yokomachi" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-yellow.svg?&style=for-the-badge&logo=HuggingFace&logoColor=white" /></a>
 <a href="https://zenn.dev/yokomachi" target="_blank"><img alt="zenn" src="https://img.shields.io/badge/zenn-FFFFFF.svg?&style=for-the-badge&logo=zenn" /></a>
 <a href="https://qiita.com/yokomachi" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
+<a href="https://dev.to/yokomachi" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/devto-000000.svg?&style=for-the-badge&logo=devto&logoColor=white" /></a>
 <a href="https://speakerdeck.com/yokomachi" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/SpeakerDeck-006159.svg?&style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yokomachi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://www.credly.com/users/yokomachi" target="_blank"><img alt="Credy" src="https://img.shields.io/badge/Credy-005850.svg?&style=for-the-badge&logo=credy&logoColor=white" /></a>
