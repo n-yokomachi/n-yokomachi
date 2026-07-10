@@ -4,7 +4,7 @@
 
 ## 👋 Hi there
 
-My name is yokomachi Naoki.  
+My name is Naoki Yokomachi / 横町 直樹 .  
 I'm a programmer.
 
 <!-- <a href="https://yokomachi.vercel.app/" target="_blank">
